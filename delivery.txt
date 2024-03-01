@@ -1,0 +1,7 @@
+1   konstructor
+2   robot
+2   robot
+3   kukla
+3   kukla
+3   kukla
+3   kukla
